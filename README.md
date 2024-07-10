@@ -1,5 +1,5 @@
 # Test-Case-BDJobs
-**Link: https://mybdjobs.bdjobs.com/createaccount.asp **
+Link: https://mybdjobs.bdjobs.com/createaccount.asp
 Generate Test Case only for Name, Email,Mobile, Password and Confirm Password.
 **SRS for that: 
 Name: Only Accepts Name 
